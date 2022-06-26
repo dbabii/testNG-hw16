@@ -3,3 +3,8 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore Apple files
+.DS_Store
+.AppleDouble
+.LSOverride
